@@ -46,7 +46,7 @@ A real-time chat application with user authentication, group messaging, and priv
 ### **1️⃣ Clone the Repository**
 ```sh
 git@github.com:nashman100/101024415_lab_test1_chat_app.git
-cd 101024415_lab_test1_chat_app.git
+cd 101024415_lab_test1_chat_app
 ```
 
 ### **2️⃣ Install Dependencies**
