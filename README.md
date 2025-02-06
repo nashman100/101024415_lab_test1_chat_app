@@ -13,7 +13,7 @@ A real-time chat application with user authentication, group messaging, and priv
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS, Bootstrap, jQuery, JavaScript  
 - **Backend:** Node.js, Express.js, Socket.io  
 - **Database:** MongoDB with Mongoose  
