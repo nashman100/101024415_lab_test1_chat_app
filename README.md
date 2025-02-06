@@ -62,9 +62,10 @@ JWT_SECRET=your_secret_key
 ```
 
 ### **4️⃣ Run the Application**
+```
 cd .\Backend\
 node .\server.js
-
+```
 📌 **The server will start at:**  
 http://localhost:3000  
 
