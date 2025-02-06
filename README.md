@@ -78,3 +78,14 @@ http://localhost:3000
 4️⃣ **Use private messaging** to chat directly with another user.  
 5️⃣ **See typing indicators** when someone is typing.  
 6️⃣ **Click "Logout"** to end the session.  
+
+## 📸 Screenshots
+
+### 🔹 Login Page
+![Login Page](screenshots/Login.png)
+
+### 🔹 Signup
+![Signup](screenshots/Signup.png)
+
+### 🔹 Chat UI
+![Chat UI](screenshots/Chat.png)
